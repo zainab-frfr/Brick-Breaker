@@ -1,3 +1,3 @@
-# brick_breaker
+# Brick Breaker
 
-A new Flutter project.
+My first attempt at Flame (Flutter's game engine).
